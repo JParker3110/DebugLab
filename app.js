@@ -31,7 +31,7 @@ resetButton.addEventListener('click', function() {
 //Set break point on event listeners
 
 // Question 8: What is the scope of the count variable in DevTools?
-//0
+//Local
 
 // Question 9: Use the Network tab to find out: Is the app.js file loaded successfully?
 //yes
